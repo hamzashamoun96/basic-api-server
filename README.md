@@ -24,13 +24,13 @@
 
 ## Heroku Deploying Url's
 
-[Heroku main](https://hamza-basic-express-server.herokuapp.com/person?name=validName)
-
+[Heroku main food](https://hamza-basic-api-server.herokuapp.com/food)
+[Heroku main cloth](https://hamza-basic-api-server.herokuapp.com/cloth)
 ## Github Test
-[Github Actions](https://github.com/hamzashamoun96/basic-express-server/actions)
+[Github Actions](https://github.com/hamzashamoun96/basic-api-server/actions)
 
 ## Github Pull Request
-[Pull Request](https://github.com/hamzashamoun96/basic-express-server/pull/1)
+[Pull Request](https://github.com/hamzashamoun96/basic-api-server/pull/1)
 
 ## Test
 * for testing the application run the command npm test.
